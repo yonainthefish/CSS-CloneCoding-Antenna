@@ -1,1 +1,3 @@
-# CSS-CloneCoding-Antenna
+# CSS-Renewal-Antenna
+
+안테나 기존(22.07 이전) 웹사이트의 UI,UX 의 불편함을 파악하고 리디자인하여 제작한 웹사이트 입니다.
